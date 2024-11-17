@@ -1,1 +1,1 @@
-Some **text** here!
+Target language to **translate**
